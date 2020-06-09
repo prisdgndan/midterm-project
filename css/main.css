@@ -23,7 +23,7 @@ body {
   }
 
   img {
-    border: none;
+    border: 5px;
     margin: 0;
     padding: 0;
   }
@@ -138,7 +138,7 @@ body {
   #mainFooter {
     height: 142px;
     width: 940px;
-    background: url(images/footer-banner.jpg) no-repeat;
+    background: none;
     margin-top: 62px;
     clear: both;
   }
